@@ -1,0 +1,56 @@
+.principal {
+    outline: 5px solid red;
+    position: absolute;
+    width: 1870px;
+    height: 920px;
+    top: 25px;
+    left: 25px;
+    
+}
+
+.caja1,.caja2,.caja3 {
+    position: absolute;
+    width: 800px;
+    height: 220px;
+    
+}
+
+.caja1 {
+    outline: 5px solid rgb(21, 133, 71);
+    top: 35px;
+    left: 35px;
+}
+
+.caja2 {
+    outline: 5px solid blue;
+    top: 290px;
+    left: 90px;
+}
+
+.caja3 {
+    outline: 5px solid #f19730;
+    top: 550px;
+    left: 150px;
+}
+
+
+
+
+p {
+    font-family: "Bant Bold";
+    text-shadow: 2px 2px #f19730;
+    font-size: 45px;
+}
+
+.text, .text2, .text3 {
+    position: absolute;
+    top: -20px;
+    left: 10px;
+
+}
+
+.text4{
+    position: absolute;
+    top: 730px;
+    left: 620px;
+}

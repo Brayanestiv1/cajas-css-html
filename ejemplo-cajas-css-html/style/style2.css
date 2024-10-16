@@ -1,0 +1,25 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+nav {
+    width: 80%;
+    background-color: lightpink;
+    padding: 20px;
+}
+
+ul {
+    display: inline;
+    list-style-type: none;
+    padding: 0px;
+    color: white
+}
+li {
+    display: inline;
+    padding: 15px;
+}
+li:hover {
+    background-color: blue;
+}
