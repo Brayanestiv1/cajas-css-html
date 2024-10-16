@@ -1,0 +1,52 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.text {
+    color: aliceblue;
+    margin-top: -160px;
+    margin-left: 3%;
+}
+
+.cafe {
+    background-color: rgb(117, 63, 0);
+    padding: 165px;
+    width: 100%;
+}
+
+.red {
+    background-color:red;
+    padding: 100px;
+    width: 100%;
+}
+
+.caja1 {
+    outline: 5px solid aliceblue;
+    background-color: gray;
+    position: absolute;
+    width: 18%;
+    margin-top: -195px;
+    height: 190px;
+    margin-left: 43%;
+    
+}
+
+.yellow {
+    background-color:yellow;
+    padding: 140px;
+    width: 100%;
+}
+
+.text1 {
+    left: 50%;
+}
+
+.blue {
+    background-color:blue;
+    padding: 70px;
+    width: 100%;
+}
+
